@@ -5,7 +5,7 @@
 
 - 🌱 Мои новые технологии обучения **Node js, Exprees js, Mongo DB**
 
-- Сайт для мебельного магазина [Dlim.uz](https://dlim.uz/)
+- Сайт для мебельного магазина [Dlim.uz](https://dlim.uz/) [code](https://github.com/barotovbekhruzbek/Dlim.uz)
 
 - сайт для туристической компании [Travel](https://travel-bexa.netlify.app/)
 
