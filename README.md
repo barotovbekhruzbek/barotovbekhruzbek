@@ -2,12 +2,14 @@
 <h3 align="center">Я Баротов Бехрузбек, разработчик на Фронтенд.</h3>
 
 - Сайт Когонского маслозавода [kogonyog](https://kogonyog.uz/) (https://kogon-yog.vercel.app/)
+ - Сайт для мебельного магазина [Dlim.uz](https://dlim.uz/) [code](https://github.com/barotovbekhruzbek/Dlim.uz)
+ - сайт для магазина ковров [urgaz.uz](https://uzrgaz.netlify.app/)
+
+- сайт для туристической компании [Travel](https://travel-bexa.netlify.app/)
 
 - 🌱 Мои новые технологии обучения **Node js, Exprees js, Mongo DB**
 
-- Сайт для мебельного магазина [Dlim.uz](https://dlim.uz/) [code](https://github.com/barotovbekhruzbek/Dlim.uz)
 
-- сайт для туристической компании [Travel](https://travel-bexa.netlify.app/)
 
 - 👨‍💻 Все мои проекты доступны на [https://bio-labuzb.vercel.app/#/](https://bio-labuzb.vercel.app/#/)
 
